@@ -1,15 +1,15 @@
 # 201 Class1 Notes
 - PWD Present working directory
 - LS list
-- HTML and CSS are not a offical language. 
-- there aree class, ID for certain aspect.
-- <h1> <span> are used to create title page name
+- HTML and CSS are not a official language.
+- there are class, ID for certain aspect.
+- h1 span are used to create title page name
 - Javascript creates interactive part with user
-- Offical langague you will be using for Full Stack
+- Official language you will be using for Full Stack
 - USE HTML CSS to design the webpage, and interactive will be used on JavaScript
 - First step to design is to create HTML format for the web.
 - The most important question to answer for the design is the what is the main goal of the website, and what is it suppose to do
-- H1 should be used over Span because H1 is designated for header, however, Span can be used for any thing. 
-- The benfits of using semantic tags on HTML is HTML creates baseline for the web page. Can do the most basic structure through HTML, and design and change with CSS and interaction with Javascript
+- H1 should be used over Span because H1 is designated for header, however, Span can be used for any thing.
+- The benefits of using semantic tags on HTML is HTML creates baseline for the web page. Can do the most basic structure through HTML, and design and change with CSS and interaction with Javascript
 - JavaScript has to make sure the values are correct, with correct strings, ray, etc
 - You can add Javascript to HTML three different ways. First way is external sheet by creating .js folder within the same location of HTML and CSS. Inline Javascript will work on html page. Internal is creating a script tag within the head on HTML.
