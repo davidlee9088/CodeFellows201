@@ -1,6 +1,6 @@
 # CodeFellows201 NOTES
 ## Table of Content
-- 
+- [201 Class 1 Notes](https://github.com/davidlee9088/CodeFellows201/Class1)
 - 
 - 
 - 
