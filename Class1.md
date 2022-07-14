@@ -4,6 +4,7 @@
 2. HTML will read the raw data bytes will transform. CSS is the whip cream during that process. The data will be adjusted through CSS and creating a image of the user's input. Javascript will also read the data creating mathmatical formula, or certain design to be interactive.
 3. There are certain ways to look for images online. Because certain pictures have rights to be owned, for google you can search through usage rights. Other place holders that are for everyone is also provided through few different webpages.
 4. String can be created through using "". Number can be created by using the actual number as the value, and not putting anything after that.
+5. Variable is something that you can assignemnt on a element. Because of element can be assigned, it is important to assign variable so that you can do functions, and loops with those variables.
 ## HTML
 1. HTML reads raw data, and the main structure for the web page. Not the design or interaction, but the way very basic coding of a website.
 2. HTML elements are everything. It can be from h1 ~ h6, p, body, head, and even header. Elements are what seperates the coding from each other, and give indivudal specaility upon coding.
