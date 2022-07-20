@@ -1,3 +1,5 @@
+https://davidlee9088.github.io/CodeFellows201/Class7
+
 # Class 7 Notes 
 ## Domain Modeling
 1. Explain why we need domain modeling.
