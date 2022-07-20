@@ -6,8 +6,6 @@ Main axis is the one set by your flex-direction property. Cross Axis runs other 
 3. How can using certain properties of flexbox negatively impact accessibility?
 The reordering elements can cause negatively impact the accessibility. Issues can be caused by flex box or grid can cause issues. With reordering or adjustment, you should always be testing before putting the update.
 
-What are some advantages of using flexbox over float?
-How does this topic connect with your long term goals?
 
 ## CSS layout - flexbox
 1. What are some advantages of using flexbox over float?
