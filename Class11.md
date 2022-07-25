@@ -5,9 +5,12 @@
 1. Explain how the ability to use video and audio on the web has evolved since the early 2000s.
 Before, the HTML did not have any ability to run video or audio on the web. However, as time developed, things like Flash or SilverLight came to fix those issues. Had issues during those phases however, HTML5 included things such as videos and audio were added to the HTML
 2. Describe the use of the src and controls attributes in the <video> element.
+
 It would be the same type like img. Using video with added SRC will run the video like it runs img inside of the HTML.
 3. Why is it important to have fallback content inside the <video> element?
+
 It is important to have Fallback content since if the broweser does not support the video, the fallback will be provided to the older browsers.Like img, there is alt way to be shown
+
 4. Write a very short story where <audio> and <video> are characters.
 A long time ago, there was a character named Audio and Video. They were both ignored by the HTML family since HTML had childeren of Flash and SilverLight. Flash ran Safri kingdom, and SilverLight ran Chrome world. However, HTML family gave birth to a child named HTML5. HTML5 friended Audio and Video since HTML5 thought they were good people. Because Flash and SilverLight ran their kingdom in a terrible way, to Save people HTML5 decided to revlot and fight back to them. With powerful warriors like Audio and Video on HTML5's side they won over the kingdom. Because they were friends and good people, HTML5 gave them rights to run the kingdoms with HTML5. The end
 
